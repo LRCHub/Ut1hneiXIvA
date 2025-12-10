@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アイラ",
+  "base_artist": "n-buna",
+  "createdAt": "2025-12-10T13:19:38.888698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイラ",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/01_アイラ_MINMI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイラ",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/02_アイラ_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイラ",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/03_アイラ_n-buna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイラ",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_アイラ_n-buna.txt"
+    }
+  ]
+}
